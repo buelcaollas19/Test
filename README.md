@@ -1,4 +1,23 @@
-# Test Bomberos
+# Tests de oposición (archivos HTML autocontenidos)
+
+| Archivo | Contenido |
+|---|---|
+| **`test-altura-rescate.html`** | **Trabajo en altura y maniobras de rescate** (temario CESUR, 12 temas, 150 preguntas de dificultad extrema) |
+| `test-bomberos.html` | Temario general de bombero (12 temas, 171 preguntas) |
+
+Las dos apps funcionan igual: menú con *Test por temas* y *Test definitivo* (60 preguntas, 5 por tema), opciones barajadas, explicación tras cada respuesta, penalización opcional de −1/3, desglose por tema y repaso de falladas.
+
+## Test de altura y rescate
+
+Las preguntas siguen el modelo de la «pregunta de dificultad extrema» de la Unidad 8:
+- **Opciones casi idénticas**: cada distractor difiere de la correcta en un solo detalle (un cuantificador, el orden de los pasos, una cifra, una negación).
+- **Negaciones**: alrededor del 40 % llevan doble o triple negación o «excepto».
+- **Fuente**: todas se basan exclusivamente en el texto del temario. La explicación cita el apartado y el error de cada distractor.
+- **Longitud**: no da pistas. Elegir siempre la opción más larga o la más corta acierta menos que el azar.
+
+---
+
+## Test general de bombero
 
 Simulador de test para oposiciones de bombero en **un único archivo**: `test-bomberos.html`.
 Incluye HTML, CSS y JavaScript, no necesita servidor ni conexión y se puede abrir en cualquier navegador de ordenador, tablet o móvil. Se puede enviar por WhatsApp como documento.
