@@ -1,0 +1,27 @@
+{
+  "title": "Blender: enciclopedia técnica de producción",
+  "kicker": "Auditoría técnica y sistematización de herramientas",
+  "coverTitle": "Blender<br>Enciclopedia técnica de producción",
+  "subtitle": "Herramientas, editores, modificadores, nodos y flujos de trabajo analizados uno a uno: qué hacen, cómo se usan, cómo se combinan y qué errores evitar.",
+  "coverMeta": [
+    { "label": "Versión de referencia", "value": "Blender <em>5.3</em> (noviembre de 2026)" },
+    { "label": "Este volumen", "value": "Avance: Módulos <em>1 y 2</em> de 13" },
+    { "label": "Módulo 1", "value": "Arquitectura, interfaz y gestión de datos" },
+    { "label": "Módulo 2", "value": "Modelado poligonal, curvas y superficies" }
+  ],
+  "tocNote": "Volumen de avance con los dos primeros módulos. Los números de página y los marcadores del PDF son navegables.",
+  "pendingTitle": "Módulos pendientes de esta edición",
+  "pending": [
+    "Módulo 3 — El sistema completo de modificadores",
+    "Módulo 4 — Escultura digital y retopología",
+    "Módulo 5 — UV unwrapping y texturizado",
+    "Módulo 6 — Sombreado y materiales procedimentales",
+    "Módulo 7 — Geometry Nodes",
+    "Módulo 8 — Iluminación, cámaras y motores de render",
+    "Módulo 9 — Rigging, deformación y animación",
+    "Módulo 10 — Físicas y simulaciones",
+    "Módulo 11 — Grease Pencil",
+    "Módulo 12 — Composición, postproducción y edición de vídeo",
+    "Módulo 13 — Scripting y automatización con Python"
+  ]
+}
